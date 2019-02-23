@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Portfolio Website.
+###### https://vinaysomawat.github.io/
 
-You can use the [editor on GitHub](https://github.com/powerfist01/powerfist01.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About me
+* Competitive Programming
+* Web Designing
+* Software Development
+* Android Application
+* Technical Writing
+* Machine Learning
+* Open Source 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Counters
+* Course
+* Project and Apps
+* Published Articles
+* Percentile Internationally
 
-### Markdown
+### Skills
+### Work Experience
+### Recent Blogs
+### Contact
+* Mail Address
+* Location
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Footer
+------------------------------------------------------------------
+To setup the project on your local machine:
 
-```markdown
-Syntax highlighted code block
+1. Click on `Fork`.
+2. Go to your fork and `clone` the project to your local machine.
+3. `git clone https://github.com/vinaysomawat/vinaysomawat.github.io.git`
 
-# Header 1
-## Header 2
-### Header 3
+To contribute to the project:
 
-- Bulleted
-- List
+1. Choose any open issue from [here](https://github.com/vinaysomawat/vinaysomawat.github.io/issues). 
+2. Comment on the issue: `Can I work on this?` and get assigned.
+3. Make changes to your fork and send a PR.
 
-1. Numbered
-2. List
+To create a PR:
 
-**Bold** and _Italic_ and `Code` text
+Follow the given link to make a successful and valid PR: https://help.github.com/articles/creating-a-pull-request/
 
-[Link](url) and ![Image](src)
-```
+To send a PR, follow these rules carefully,**otherwise your PR will be closed**:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Make PR title in this format: `Fixes #IssueNo : Name of Issue`
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/powerfist01/powerfist01.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For any doubts related to the issues, i.e., to understand the issue better etc, comment down your queries on the respective issue.
