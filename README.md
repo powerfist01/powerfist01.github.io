@@ -1,27 +1,4 @@
-# Portfolio Website.
-###### https://powerfist01.github.io/
+Run the www file in the bin folder using node to see the server running on 
 
-### About me
-* Competitive Programming
-* Web Designing
-* Software Development
-* Android Application
-* Technical Writing
-* Machine Learning
-* Open Source 
 
-### Counters
-* Course
-* Project and Apps
-* Published Articles
-* Percentile Internationally
-
-### Skills
-### Work Experience
-### Recent Blogs
-### Contact
-* Mail Address
-* Location
-
-### Footer
-------------------------------------------------------------------
+#####     http://localhost:8080/           ########
