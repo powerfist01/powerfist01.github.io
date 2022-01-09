@@ -1,0 +1,19 @@
+body{
+    font-family: '-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif';
+    -webkit-font-smoothing: antialiased;
+    margin-top: 50px;
+    color: #2c3e50;
+    font-size: 26px;
+    line-height: 2;
+}
+.greetings{
+    font-size: 36px;
+    font-weight: 600;   
+}
+.links{
+    color: #42b883;
+    text-decoration: underline;
+}
+.links:hover{
+    color: #42b883;
+}
